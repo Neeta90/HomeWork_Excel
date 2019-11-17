@@ -13,3 +13,4 @@ canceled and failed.We use pivot table and different types of charts to analyse 
 4. The projects which have less than 1000 goal are more successful rate.
 
 pivot table
+"C:\Users\ATHARVA SRIVASTAVA\Desktop\UT\HomeWork_Excel\pivottable.png"
