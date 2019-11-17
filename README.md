@@ -1,8 +1,9 @@
 # HomeWork_Excel
 Organize and analyze a database of 4,000 past projects to determine how many project are successful, 
-canceled and failed.We use pivot table and different types of charts to analyse the data.
+canceled and failed.
+We use pivot table and different types of charts to analyse the data.
 
- Conclusion for Kickstarts Campaigns :
+Conclusion for Kickstarts Campaigns :
  
 1.Theater category has more successful projects and the second most is Music. Then Journalism category had cancelled it doesn’t have any success or failure rate.
 
