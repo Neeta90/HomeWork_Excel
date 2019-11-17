@@ -19,4 +19,6 @@ pivot table
 
 ![subcategory](https://user-images.githubusercontent.com/50187921/69012115-bd2e4980-0937-11ea-9ec9-b67d640f8d71.png)
 
+Line Chart
+
 
