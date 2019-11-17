@@ -11,3 +11,5 @@ canceled and failed.We use pivot table and different types of charts to analyse 
 3.Form the country column we can conclude that the US and Canada projects got more successful
 
 4. The projects which have less than 1000 goal are more successful rate.
+
+pivot table
