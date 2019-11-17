@@ -16,3 +16,7 @@ pivot table
 
 ![pivottable](https://user-images.githubusercontent.com/50187921/69012092-6a549200-0937-11ea-88e4-78ce57ba8f5f.png)
 
+
+![subcategory](https://user-images.githubusercontent.com/50187921/69012115-bd2e4980-0937-11ea-9ec9-b67d640f8d71.png)
+
+
