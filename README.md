@@ -22,4 +22,6 @@ pivot table
 Line Chart
 ![line](https://user-images.githubusercontent.com/50187921/69012133-09798980-0938-11ea-8ace-47ef0b936963.png)
 
+![Bonus](https://user-images.githubusercontent.com/50187921/69012156-46458080-0938-11ea-8feb-0587bf5836b0.png)
+
 
