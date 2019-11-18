@@ -13,7 +13,7 @@ We use pivot table and different types of charts to analyse the data.
 
 4. The projects which have less than 1000 goal are more successful rate.
 
-**pivot table**
+**Pivot table**
 
 ![pivottable](https://user-images.githubusercontent.com/50187921/69012092-6a549200-0937-11ea-88e4-78ce57ba8f5f.png)
 
